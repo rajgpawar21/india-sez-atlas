@@ -2,7 +2,7 @@
 
 Interactive map of all **277 operational Special Economic Zones** in India, from the Department of Commerce list "Operational SEZs in India" (up to 31.03.2026). SEZs are grouped into 8 sector groups (colour + shape), with a built-in completeness check, search, state filter and a full table.
 
-**Live site (GitHub Pages):** `https://<your-username>.github.io/<repo-name>/`
+**Live site (GitHub Pages):** `https://rajgpawar21.github.io/india-sez-atlas/`
 
 ## Run locally
 The page fetches files from `data/`, so open it through a web server, not `file://`:
